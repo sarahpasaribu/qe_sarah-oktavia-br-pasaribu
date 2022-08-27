@@ -1,40 +1,54 @@
 # qe_sarah-oktavia-br-pasaribu
 
-Pengerjaan resume Section 5 program Kampus Merdeka di Alterra Academy
+Pengerjaan resume Section 4 program Kampus Merdeka di Alterra Academy
 
-Story 1
+Software testing adalah adanya proses verifikasi sistem apakah sebuah aplikasi atau sistem memenuhi syarat kebutuhan dan menghasilkan hasil yang sesuai yaitu untuk mengidentikasi bug dalam product software
 
-Case : Suncorp Bank
+Skill dari software tester
 
-Kegagalan pemakaian setelah melakukan upgrade versi software yang mengakibatkan kehilangan uang dari rekening nasabah.
+Non-technical skills
 
-Story 2
+skill analisis —> menyederhanakan tatanan yang kompleks
+skill dalam komunikasi —> memiliki jiwa komunikasi yang baik terhadap developer
+manajemen waktu dan skill mengkordinasi dengan mengatur jadwal dengan berbagi produktivitas tinggi
+great attitude yaitu meningkatkan skill dengan teknologi yang terus berkembang
+passion yaitu memiliki niat yang baik untuk mendalami role ini dan menjalani nya dengan sepenuh hati
+Technical Skills
 
-Pada tahun 1985, adanya bug halus yaitu race condition,
+Memiliki ilmu dasar tentang unix/linux yang berguna untuk automation tools dan instalasi tools
 
-Software Testing is important, Why ?
+mengetahui test management tool seperti :
 
-- Saves money
-- product quality
-- security
-- customer satisfaction
+test link
 
-Testing platform, dibedakan menjadi 4 :
+practice test
 
-1. API (Application Programming Interface) —> Sekumpulan definisi dan protokol untuk membangun dan mengintegrasikan software. Pengembangan dari aplikasi software yang mengkinkan berbagai aplikasi bertukar data dengan fungsionalitas mudah dan aman.
-2. Web —> sebuah kumpulan halaman tertentu yang dpt dikunjungi secara umum apabila mendapatkan url sebuah web.
-3. Mobile —> Dalam testing dibedakan menjadi 2 yaitu Android dan iOs
-4. Desktop —> seperti aplikasi video player, code editor
+test rail
 
-Tipe dari Software Testing :
+mengetahui tracking management tools seperti :
 
-- Function Testing : Jenis pengujian testing bahwa aplikasi sudah berjalan seperti requirement soesification Manual, Automate,etc
-  Manual Testing adalah software tester melakukan eksekusi test case dan melakukan generasi report test.
-  Manual tetsing menggunakan metode klasik dari semua tipe testing dan membantu menemukan adanya bug oada sistem/program yang sedang dibangun
-  Automate adalah melakukan penulisan code script/ test script untuk mengautomasi eksekusi test. Automate menggunakan automation tools.
-- Non-functional Testing : Pengujian sistem kinerja, keandalan, kegunaan, keamanan. Nonfunctional testing dilakukan setelah functional testing selesai dilakukan seperti Performance Testing pengujian aplikasi akan bekerja dengan baik dibawah beban kinerja yang diharapkan yaitu , dll
-  Performance testing :
-  - Speed —> Menentukan response kecepatan suatu aplikasi Menghandle user load yang
-  - Scalability
-  - Stability
-- Maintanance : Regression,etc
+pivotal tracker
+
+jira software
+
+memahami automate tools, seperti :
+
+katalon
+
+karate
+
+codeception
+
+rest assured
+
+Apa yang dilakukan software tester :
+
+Mengerti setiap kebutuhan dokumen
+
+membuat test case
+
+melakukan testing
+
+melaporkan bug dan melaporkan nya
+
+melakukan meeting terhadap tim developer

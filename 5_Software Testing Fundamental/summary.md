@@ -54,4 +54,4 @@ Automation Testing Tools
 - Rest Assured
   -Codeception
   -Karate DSL
-  -Katalon
+  -Katalon Studio

@@ -11,6 +11,7 @@ Kelas : QE-A
 
 1. Pada proses SDLC (Systems development life cycle)
    <img src="assets/Tahapan-SDLC.jpg" alt="soal prak sec 09" title="Jawaban Prak Section 09">
+
    QE berperan mulai pada fase testing hingga Maintenance.
    Pada tahap SDLC, memiliki peran nya masing-masing yaitu system analyst, UI/UX, Web developer, QE.Maka QE masuk kedalam tahap Testing & Integration , Maintenance.
    Tugas seorang QE melakukan testing (pengujian) untuk mengidentikasi bug/cacat yang ada pada proyek. Agar user dapat menggunakan aplikasi dengan baik , maupun semua proses bisnis yang terdapat didalamnya sehingga dibutuhkan effort untuk pengujian agar user menerima aplikasi tersebut dengan meminimalisir bug yang mungkin saja ditemui oleh user. Maintenance dilakukan oleh developer , namun QE melakukan pengawasan terhadap pembangunan aplikasi agar tidak ada terjadinya bug lagi sebelum aplikasi dilakukan perilisan. 2. Tantangan apa ketika menerapkan agile testing?

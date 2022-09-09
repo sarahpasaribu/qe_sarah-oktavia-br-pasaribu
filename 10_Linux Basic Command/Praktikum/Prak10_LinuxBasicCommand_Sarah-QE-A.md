@@ -9,6 +9,7 @@ linux Basic Command
 ## 1. Basic Commands
 
 1. Implementasi Basic commands
+
    <img src="assets/1.PNG" alt="Prak section 10" title="Jawaban Prak Section 10">
 
 cal = fungsi menampilkan kalender
@@ -19,46 +20,54 @@ NB : call tidak telihat hasilnya karena harus mendownload sudo apt install x11-a
 ## 2. File System Commands
 
 1. Implementasi basic commands
+
    <img src="assets/2.PNG" alt="Prak section 10" title="Jawaban Prak Section 10">
 
 touch = membuat file baru yang kosong melalui baris perintah linux
 maka, touch note_linux.txt = membuat file baru yang beformat txt yang bernama note_linux
 
-3. Melihat bukti dari pembuatan note_linux.txt
+2. Melihat bukti dari pembuatan note_linux.txt
 
 <img src="assets/3.PNG" alt="Prak section 10" title="Jawaban Prak Section 10">
 
-4. Membuat daftar konten atau isi file pada standard output.
+3. Membuat daftar konten atau isi file pada standard output.
+
    <img src="assets/4.PNG" alt="Prak section 10" title="Jawaban Prak Section 10">
 
-5. Menyalin file dari directory saat ini ke directory yang berbeda
+4. Menyalin file dari directory saat ini ke directory yang berbeda
+
    <img src="assets/5.PNG" alt="Prak section 10" title="Jawaban Prak Section 10">
 
-6. Memindahkan file meskipun sebenarnya bisa digunakan untuk mengganti / mengubah nama file
+5. Memindahkan file meskipun sebenarnya bisa digunakan untuk mengganti / mengubah nama file
+
    <img src="assets/6.PNG" alt="Prak section 10" title="Jawaban Prak Section 10">
 
 Maka kita akan cek pada folder documents
+
 <img src="assets/7.PNG" alt="Prak section 10" title="Jawaban Prak Section 10">
 
 Mengganti nama file
+
 <img src="assets/8.PNG" alt="Prak section 10" title="Jawaban Prak Section 10">
 
-7. Menghapus directory/file beserta isinya
+6. Menghapus directory/file beserta isinya
+
    <img src="assets/9.PNG" alt="Prak section 10" title="Jawaban Prak Section 10">
 
-8. Membuat directory baru
+7. Membuat directory baru
+
    <img src="assets/10.PNG" alt="Prak section 10" title="Jawaban Prak Section 10">
 
-9. Menghapus directory yang kosong --> tidak berhasil karna ada file didalam
+8. Menghapus directory yang kosong --> tidak berhasil karna ada file didalam
    <img src="assets/11.PNG" alt="Prak section 10" title="Jawaban Prak Section 10">
 
    Menghapus directory yang kosong
    <img src="assets/12.PNG" alt="Prak section 10" title="Jawaban Prak Section 10">
 
-10. Menjelajahi file dan directory linux. Melihat path yang ingin di tracking
-    <img src="assets/13.PNG" alt="Prak section 10" title="Jawaban Prak Section 10">
+9. Menjelajahi file dan directory linux. Melihat path yang ingin di tracking
+   <img src="assets/13.PNG" alt="Prak section 10" title="Jawaban Prak Section 10">
 
-11. Mencari path dari directory yang kita gunakan saat ini
+10. Mencari path dari directory yang kita gunakan saat ini
     <img src="assets/14.PNG" alt="Prak section 10" title="Jawaban Prak Section 10">
 
 ## 3. Processes Control Commands
@@ -72,6 +81,7 @@ Mengganti nama file
    <img src="assets/16.PNG" alt="Prak section 10" title="Jawaban Prak Section 10">
 
    Tampilan setelah dilakukan clear
+
    <img src="assets/17.PNG" alt="Prak section 10" title="Jawaban Prak Section 10">
 
 3. History berguna untuk mengecek kembali command yang sudah ditambahkan sebelunya atau riwayat pembukaan di gitbash
@@ -86,6 +96,7 @@ Mengganti nama file
    <img src="assets/20.PNG" alt="Prak section 10" title="Jawaban Prak Section 10">
 
 3. chmod berguna untuk membaca , menulis, dan manjalankan permission dari file dan directory dengan kata lain mengganti izin akses terhadap suatu file atau directory.
+
    <img src="assets/21.PNG" alt="Prak section 10" title="Jawaban Prak Section 10">
 
 4. chwon berguna untuk mengubah/ mentransfer kepemilikan file ke user yang spesifik. Karena kita tahu bahwa semua file dimiliki oleh user khusus.  

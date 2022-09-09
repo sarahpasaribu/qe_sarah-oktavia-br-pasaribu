@@ -168,7 +168,7 @@ NB : Menjalankan perintah file bash harus membuat isi parameternya. jika dilihat
 Maka akan muncul tampilan GNU nano gitbash seperti dibawah ini
 <img src="assets/38.PNG" alt="Prak section 10" title="Jawaban Prak Section 10">
 
-2. Buat isi file “program_operasi.sh” dengan operasi perkalian dengan perintah “let”
+2. Buat isi file “program_operasi.sh” dengan operasi penjumlahan dengan perintah “let”
    <img src="assets/39.PNG" alt="Prak section 10" title="Jawaban Prak Section 10">
 
 Gambar diatas menunjukkan bahwa akan melakukan operasi penjumlahan dengan nano program.

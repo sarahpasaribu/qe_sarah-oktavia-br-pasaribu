@@ -70,7 +70,7 @@ adalah sebuah variabel yang menampung banyak data atau angka atau karakter.
 
 **INPUT/OUPUT**
 
-Input adalah nilai yang kita masuk kan ke progaram dan ouput adalah hasil dari pengelolahan dari input.
+Input adalah nilai yang kita masuk kan ke progaram dan ouput adalah hasil dari pengelolahan dari input..
 
 3 class untuk mengambil inputnya :
 

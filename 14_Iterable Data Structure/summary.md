@@ -10,12 +10,12 @@ Iterable Data Structure
 
 Iterable adalah objek yang memiliki iterator. Contoh iterable adalah array dan set. Iterator adalah properti dari objek yang menyediakan mekanisme untuk melintasi objek.Pada Gambar iterable diatas terjadi ketika dilakukan sebuah perulangan for yang membentuk variabel baru yaitu name untuk menyimpan variabel names lalu mencetak variabel name tersebut sehingga akan menghasilkan alterra untuk hasil pertama dan hasil kedua adalah academy.
 
-<img src="assets/1.png" alt="soal prak sec 14" title="Jawaban Prak Section 14">
+<img src="assets/1.PNG" alt="soal prak sec 14" title="Jawaban Prak Section 14">
 
 Interface
 Class yang menggunakan object interface, class tersebut harus mengimplementasikan ulang seluruh fungsi yang ada di dalam interface. Dalam pemrograman berorientasi objek, penyebutan object interface sering disebut dengan interface
 
-<img src="assets/2.png" alt="soal prak sec 14" title="Jawaban Prak Section 14">
+<img src="assets/2.PNG" alt="soal prak sec 14" title="Jawaban Prak Section 14">
 
 Maksudnya adalah apabila menggunakan struktur data dari masing-masing implementasi tersebut, kita juga bisa menggunakan interface (set, list, dan deque) sebagai tipe data dari variabel tempat kita menyimpan kumpulan data tersebut.
 
@@ -73,7 +73,7 @@ toArray()
         - Menyediakan penyimpanan data yang dinamis artinya tidak terikat dengan kapasitas yang dapat disimpan oleh ArrayList tersebut
         - Data yang dimpan oleh ArrayList bisa sebanyak apapun , selama memori data dari komputer masih sanggup untuk menyimpan data tersebut
 
-<img src="assets/3.png" alt="soal prak sec 14" title="Jawaban Prak Section 14">
+<img src="assets/3.PNG" alt="soal prak sec 14" title="Jawaban Prak Section 14">
 
 Array List Work :
 
@@ -89,7 +89,7 @@ Step 5 : Akan dilakukan hal yang sama , jika kapasitas penyimpanan sudah penuh
 
 Maka sebetulnya panjang dari Array List terbatas , tetapi Array List dapat memanjangkan dirinya sehingga seolah-olah data yang dapat disimpan iyu tidak terbatas
 
-<img src="assets/4.png" alt="soal prak sec 14" title="Jawaban Prak Section 14">
+<img src="assets/4.PNG" alt="soal prak sec 14" title="Jawaban Prak Section 14">
 
 Line 2 : terdapat variabel yang isi array list nya kosong
 
@@ -107,14 +107,14 @@ Urutan 2 = 30
 
 Maka yang akan tampil ke layar adalah 30
 
-<img src="assets/5.png" alt="soal prak sec 14" title="Jawaban Prak Section 14">
+<img src="assets/5.PNG" alt="soal prak sec 14" title="Jawaban Prak Section 14">
 
 - Linkedlist
   - Merupakan struktur data yang menyimpan setiap elemen nya saling terhubung satu sama lain , cara Linked List menghubungkan satu elemen dengan elemen yang lainnya adalah dengan menyimpan alamat memori dari masing-masing elemen , baik elemen setelah atau sebelumnya .
   - Jadi apabila ada sebuah elemen terdapat dalam Linked List , pada elemen tersebut akan menyimpan alamat memori dari elemen yang sebelumnya
   - Lalu elemen sebelumnya juga akan menyimpan alamat memori dari elemen yang sebelumnya lagi
 
-<img src="assets/6.png" alt="soal prak sec 14" title="Jawaban Prak Section 14">
+<img src="assets/6.PNG" alt="soal prak sec 14" title="Jawaban Prak Section 14">
 
 ### Perbedaan Array List dan Linked List :
 
@@ -129,7 +129,7 @@ Maka yang akan tampil ke layar adalah 30
 
 2. Secara Time Complexity :
 
-<img src="assets/7.png" alt="soal prak sec 14" title="Jawaban Prak Section 14">
+<img src="assets/7.PNG" alt="soal prak sec 14" title="Jawaban Prak Section 14">
 
 Ket :
 
@@ -165,7 +165,7 @@ Set merupakan sebuah struktur data yang dapat menyimpan sekumpulan data secara l
 Comparing Set
 HashSet Vs LinkedHashSet Vs EnumSet Vs TreeSet
 
-<img src="assets/8.png" alt="soal prak sec 14" title="Jawaban Prak Section 14">
+<img src="assets/8.PNG" alt="soal prak sec 14" title="Jawaban Prak Section 14">
 
 Method Hash Set
 HashSet();

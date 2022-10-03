@@ -26,21 +26,21 @@ HTML merupakan standar yang digunakan untuk menampilkan halaman web
 
 ### 2. HTML Editors : Notepad, sublime, viscode
 
-- <! DOCTYPE html> = berfungsi untuk mendefinisikan dokumen ini sebagai HTML5>
+<!-- - <! DOCTYPE html> = berfungsi untuk mendefinisikan dokumen ini sebagai HTML5>
 - <html> = elemen root dari halaman HTML
 - <head> = berisi informasi meta tentang dokumen
 - <title> = menentukan judul untuk dokumen
-- <body> = berisi konten halaman yang terlihat
+- <body> = berisi konten halaman yang terlihat -->
 
 ### 3. TAG HTML
 
-- Tag div : untuk konten
+<!-- - Tag div : untuk konten
 - Tag heading : <h1>-<h6> dan tag paragraf <p>
 - Styling : <strong>=lebih tebal, <em>=italic, <s>=text garis tercoret>, <br>=garis baru
 - tag link : <a href="">
 - tag image : <img src="">
 - tag list : <ol> <li> <ul type = "">
-- tag form : <form><fieldsheet><label><input id="" type="" placeholder="">
+- tag form : <form><fieldsheet><label><input id="" type="" placeholder=""> -->
 
 ## 3. CSS
 
@@ -50,11 +50,11 @@ CSS digunakan untuk menghias halaman web seperti color, size, font background, w
 
 ### 2. Menambah file css
 
-• External : <link rel=”stylesheet” href=”main.css”>
+<!-- • External : <link rel=”stylesheet” href=”main.css”>
 • Internal : Didefinisikan di dalam elemen <style>, di dalam bagian <head> atau <body>.
 • Inline : <h1 style=”color: #19355f;”>Hello World</h1>
 Syntax
-h1{ color: pink; font-size: 15px; }
+h1{ color: pink; font-size: 15px; } -->
 
 ### 3. CSS Selector
 

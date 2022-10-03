@@ -50,16 +50,19 @@ CSS digunakan untuk menghias halaman web seperti color, size, font background, w
 
 ### 2. Menambah file css
 
-<!-- • External : <link rel=”stylesheet” href=”main.css”>
-• Internal : Didefinisikan di dalam elemen <style>, di dalam bagian <head> atau <body>.
-• Inline : <h1 style=”color: #19355f;”>Hello World</h1>
+<!-- • External : <link rel=”stylesheet” href=”main.css”> -->
+
+<!-- • Internal : Didefinisikan di dalam elemen <style>, di dalam bagian <head> atau <body>. -->
+
+<!-- • Inline : <h1 style=”color: #19355f;”>Hello World</h1>
 Syntax
 h1{ color: pink; font-size: 15px; } -->
 
 ### 3. CSS Selector
 
-• ID: (#) tiap elemen memiliki satu tag id, pada 1 halaman tidak boleh ada 2 penamaan id yang berbeda
-• Class : (.) tag class dengan nama sama dapat digunakan berulang pada satu halaman satu elemen boleh punya class berbeda yang lebih dari satu
+<!-- • ID: (#) tiap elemen memiliki satu tag id, pada 1 halaman tidak boleh ada 2 penamaan id yang berbeda -->
+
+<!-- • Class : (.) tag class dengan nama sama dapat digunakan berulang pada satu halaman satu elemen boleh punya class berbeda yang lebih dari satu -->
 
 ### 4. CSS Grouping
 
@@ -67,11 +70,11 @@ Teknik menuliskan perintah CSS dimana elemen yang memiliki style CSS yang sama a
 
 ### 5. CSS Font
 
-• Font : Menetapkan semua properti font dalam satu deklarasi
-• Font-family : Menentukan kelompok font teks
-• Font-size : Menentukan ukuran font teks
-• Font-weight : Menentukan ketebalan untuk font teks
-• Font-style : Menentukan font teks menjadi miring
+<!-- • Font : Menetapkan semua properti font dalam satu deklarasi -->
+<!-- • Font-family : Menentukan kelompok font teks -->
+<!-- • Font-size : Menentukan ukuran font teks -->
+<!-- • Font-weight : Menentukan ketebalan untuk font teks -->
+<!-- • Font-style : Menentukan font teks menjadi miring -->
 
 ### 6. CSS Background
 

@@ -26,11 +26,12 @@ HTML merupakan standar yang digunakan untuk menampilkan halaman web
 
 ### 2. HTML Editors : Notepad, sublime, viscode
 
-<!-- - <! DOCTYPE html> = berfungsi untuk mendefinisikan dokumen ini sebagai HTML5>
-- <html> = elemen root dari halaman HTML
-- <head> = berisi informasi meta tentang dokumen
-- <title> = menentukan judul untuk dokumen
-- <body> = berisi konten halaman yang terlihat -->
+< ! DOCTYPE html> = berfungsi untuk mendefinisikan dokumen ini sebagai HTML5>
+
+- < html> = elemen root dari halaman HTML
+- < head> = berisi informasi meta tentang dokumen
+- < title> = menentukan judul untuk dokumen
+- < body> = berisi konten halaman yang terlihat
 
 ### 3. TAG HTML
 

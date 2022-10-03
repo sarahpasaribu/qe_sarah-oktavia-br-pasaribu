@@ -17,30 +17,30 @@ HTML merupakan standar yang digunakan untuk menampilkan halaman web
 
 ### 1. Kegunaan HTML
 
-• Membuat struktur dari halaman website.
-• Mengatur tampilan dan isi dari halaman web.
-• Membuat tabel dengan tag HTML table.
-• Membuat form HTML.
-• Membuat gambar dengan canvas.
-• Mempublikasikan halaman website secara online.
+- Membuat struktur dari halaman website.
+- Mengatur tampilan dan isi dari halaman web.
+- Membuat tabel dengan tag HTML table.
+- Membuat form HTML.
+- Membuat gambar dengan canvas.
+- Mempublikasikan halaman website secara online.
 
 ### 2. HTML Editors : Notepad, sublime, viscode
 
-• <! DOCTYPE html> = berfungsi untuk mendefinisikan dokumen ini sebagai HTML5
-• <html> = elemen root dari halaman HTML
-• <head> = berisi informasi meta tentang dokumen
-• <title> = menentukan judul untuk dokumen
-• <body> = berisi konten halaman yang terlihat
+- <! DOCTYPE html> = berfungsi untuk mendefinisikan dokumen ini sebagai HTML5>
+- <html> = elemen root dari halaman HTML
+- <head> = berisi informasi meta tentang dokumen
+- <title> = menentukan judul untuk dokumen
+- <body> = berisi konten halaman yang terlihat
 
 ### 3. TAG HTML
 
-• Tag div : untuk konten
-• Tag heading : <h1>-<h6> dan tag paragraf <p>
-• Styling : <strong>=lebih tebal, <em>=italic, <s>=text garis tercoret>, <br>=garis baru
-• tag link : <a href="">
-• tag image : <img src="">
-• tag list : <ol> <li> <ul type = "">
-• tag form : <form><fieldsheet><label><input id="" type="" placeholder="">
+- Tag div : untuk konten
+- Tag heading : <h1>-<h6> dan tag paragraf <p>
+- Styling : <strong>=lebih tebal, <em>=italic, <s>=text garis tercoret>, <br>=garis baru
+- tag link : <a href="">
+- tag image : <img src="">
+- tag list : <ol> <li> <ul type = "">
+- tag form : <form><fieldsheet><label><input id="" type="" placeholder="">
 
 ## 3. CSS
 

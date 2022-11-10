@@ -18,3 +18,11 @@ https://docs.google.com/document/d/1Fz196jMzaIoz3r6sO362T7gdkdM1d1eB/edit?usp=sh
 Link Slide Presentation : 
 https://www.canva.com/design/DAFQ9qrCwK8/-S1RkXUartTOw1Mvc8iyRw/view?utm_content=DAFQ9qrCwK8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
+Link Github Web UI :
+https://github.com/sarahpasaribu/qe_sarahpasaribu_miniproject_WebUI
+
+Link Github API :
+https://github.com/sarahpasaribu/qe_sarahpasaribu_miniproject_API
+
+Link Github Mobile :
+https://github.com/sarahpasaribu/sarahpasaribu-qe_sarahpasaribu_miniproject_Mobile
